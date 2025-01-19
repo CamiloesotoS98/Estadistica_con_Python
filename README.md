@@ -1,120 +1,73 @@
 # Estadistica_con_Python
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estadística - Temario</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #0056b3;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        a {
-            color: #0056b3;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .toc {
-            background: #e9ecef;
-            padding: 15px;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-        .toc h2 {
-            margin-top: 0;
-        }
-    </style>
-</head>
-<body>
-    <h1>Temario de Estadística</h1>
+<h1 align="center">📊 Estadística: Conceptos y Aplicaciones 📈</h1>
 
-    <div class="toc">
-        <h2>Tabla de Contenido</h2>
-        <ul>
-            <li><a href="#conceptos-basicos">1. Conceptos básicos</a></li>
-            <li><a href="#presentacion-informacion">2. Presentación de la información</a></li>
-            <li><a href="#descripcion-informacion">3. Descripción de la información</a></li>
-            <li><a href="#regla-empirica">4. Regla empírica y medidas de posición relativa</a></li>
-            <li><a href="#teoria-probabilidades">5. Principios de la teoría de probabilidades</a></li>
-            <li><a href="#distribuciones-probabilidad">6. Distribuciones de probabilidad</a></li>
-            <li><a href="#distribuciones-muestrales">7. Distribuciones muestrales</a></li>
-            <li><a href="#estimacion">8. Estimación para muestras grandes y pequeñas</a></li>
-            <li><a href="#pruebas-hipotesis">9. Pruebas de hipótesis</a></li>
-        </ul>
-    </div>
+<a target="_blank" href="https://github.com/tu_usuario_estadistica">
+  <img src="https://via.placeholder.com/1000x300.png?text=Estadistica+Aplicada" alt="Estadística Aplicada"/>
+</a>
 
-    <h2 id="conceptos-basicos">1. Conceptos básicos</h2>
-    <ul>
-        <li>Orígenes, evolución de la ciencia y formas de conocimiento.</li>
-        <li>Selección y formulación del problema.</li>
-        <li>Los propósitos en la ciencia y en la investigación.</li>
-        <li>Estadística: definición y división.</li>
-        <li>Historia de la Estadística.</li>
-        <li>Población, muestra, parámetro, estadígrafo.</li>
-        <li>Variables, tipos de variables, escalas de medición.</li>
-        <li>Conceptos matemáticos: aproximaciones, sumatoria, productoria, desigualdades, notación científica.</li>
-    </ul>
+---
 
-    <h2 id="presentacion-informacion">2. Presentación de la información</h2>
-    <ul>
-        <li>Presentación numérica y categórica: datos no agrupados y agrupados.</li>
-        <li>Presentación gráfica: barras, puntos, circulares, lineales, pictogramas.</li>
-    </ul>
+## 📚 Temario
 
-    <h2 id="descripcion-informacion">3. Descripción de la información</h2>
-    <ul>
-        <li>Medidas de tendencia central: media, mediana y moda (cálculo, propiedades, análisis y uso).</li>
-        <li>Medidas de dispersión: rango, varianza, desviación típica, coeficiente de variación (cálculo, propiedades, análisis y uso).</li>
-    </ul>
+### 1. Conceptos Básicos
+- Orígenes, evolución de la ciencia y formas de conocimiento.
+- Selección y formulación del problema.
+- Propósitos en la ciencia y la investigación.
+- Estadística: definición, historia y divisiones.
+- Población, muestra, parámetro, estadígrafo.
+- Variables: tipos y escalas de medición.
+- Conceptos matemáticos: Aproximaciones, sumatoria, productoria, notación científica.
 
-    <h2 id="regla-empirica">4. Regla empírica y medidas de posición relativa</h2>
-    <ul>
-        <li>Descripción de datos bivariados.</li>
-        <li>Gráficas y diagramas de dispersión.</li>
-        <li>Medidas numéricas para datos cuantitativos bivariados.</li>
-    </ul>
+### 2. Presentación de la Información
+- *Numérica y categórica*: Datos no agrupados y agrupados.
+- *Gráfica*: Barras, puntos, circulares, lineales, pictogramas.
 
-    <h2 id="teoria-probabilidades">5. Principios de la teoría de probabilidades</h2>
-    <ul>
-        <li>Enfoques de probabilidad.</li>
-        <li>Técnicas de conteo, axiomas, leyes y teoremas.</li>
-        <li>Variables aleatorias discretas y continuas: concepto, propiedades, función de probabilidad, valor esperado, varianza.</li>
-    </ul>
+### 3. Descripción de la Información
+- *Medidas de tendencia central*: Media, Mediana y Moda.
+- *Medidas de dispersión*: Rango, Varianza, Desviación típica, Coeficiente de variación.
 
-    <h2 id="distribuciones-probabilidad">6. Distribuciones de probabilidad</h2>
-    <ul>
-        <li>Distribuciones discretas: binomial, poisson (función, valor esperado, varianza, manejo tabla).</li>
-        <li>Distribuciones continuas: normal (función, valor esperado, varianza, manejo tabla).</li>
-    </ul>
+### 4. Regla Empírica y Datos Bivariados
+- Gráficas y diagramas de dispersión.
+- Medidas numéricas para datos cuantitativos bivariados.
 
-    <h2 id="distribuciones-muestrales">7. Distribuciones muestrales</h2>
-    <ul>
-        <li>Planes de muestreo y diseños experimentales.</li>
-        <li>Muestreo aleatorio simple, muestreo sistemático, teorema del límite central, distribución muestral de la media y proporción.</li>
-    </ul>
+### 5. Principios de la Teoría de Probabilidades
+- Enfoques, técnicas de conteo, axiomas y teoremas.
+- Variables aleatorias: discretas y continuas.
 
-    <h2 id="estimacion">8. Estimación para muestras grandes y pequeñas</h2>
-    <ul>
-        <li>Estimación, inferencia, estimadores y propiedades de los estimadores.</li>
-        <li>Intervalos de confianza: media, proporción, diferencia entre medias, diferencia entre proporciones, muestras pareadas, varianza, cociente de varianzas.</li>
-    </ul>
+### 6. Distribuciones de Probabilidad
+- Distribuciones discretas: Binomial y Poisson.
+- Distribuciones continuas: Normal.
 
-    <h2 id="pruebas-hipotesis">9. Pruebas de hipótesis</h2>
-    <ul>
-        <li>Elementos de una prueba de hipótesis.</li>
-        <li>Pruebas para la media, proporción, diferencia entre medias, diferencia entre proporciones, muestras pareadas, varianza, cociente de varianzas.</li>
-    </ul>
-</body>
-</html>
+### 7. Distribuciones Muestrales
+- Diseños experimentales y teorema del límite central.
+- Distribuciones muestrales: media y proporción.
+
+### 8. Estimación para Muestras
+- Intervalos de confianza para medias, proporciones, diferencias y varianzas.
+
+### 9. Pruebas de Hipótesis
+- Elementos y aplicaciones para medias, proporciones, varianzas y diferencias.
+
+---
+
+## 🔧 Herramientas y Tecnologías Recomendadas
+
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/>
+    <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Gray.png" alt="RStudio" style="height:48px;"/>
+</p>
+
+---
+
+## 💬 ¡Conéctate conmigo!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu_linkedin" target="_blank">
+    <img align="center" alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tu_instagram" target="_blank">
+    <img align="center" alt="Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a>
+</p>
