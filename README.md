@@ -53,7 +53,6 @@
 
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/>
 </p>
 
 ---
