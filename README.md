@@ -66,6 +66,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCEKYoNxwmrdWEdgPa6ezzlA" target="_blank">
-    <img align="center" alt="YouTube" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/YouTube.svg" />
+    <img align="center" alt="YouTube" width="24px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
   </a>
 </p>
