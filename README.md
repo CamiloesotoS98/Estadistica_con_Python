@@ -2,7 +2,6 @@
 <h1 align="center">📊 Estadística: Conceptos y Aplicaciones 📈</h1>
 
 <a target="_blank" href="https://github.com/tu_usuario_estadistica">
-  <img src="https://via.placeholder.com/1000x300.png?text=Estadistica+Aplicada" alt="Estadística Aplicada"/>
 </a>
 
 ---
@@ -55,7 +54,6 @@
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/>
-    <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Gray.png" alt="RStudio" style="height:48px;"/>
 </p>
 
 ---
